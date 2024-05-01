@@ -4,7 +4,7 @@ import os
 from openai import OpenAI
 from flask_cors import CORS
 client = OpenAI(
-    api_key='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',
+    api_key='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',
 )
 
 app = Flask(__name__)
@@ -31,7 +31,7 @@ def suggest_team():
         messages=[
             {
                 "role": "user",
-                "content": f"Given the project specifications provided in the document, suggest the technology stack and the number of people required for the project. Currently available engineers: {engineer_info}. Requirements: {requirements}"
+                "content": f"Given the project specifications provided in the document, suggest the technology stack, name and the number of people required for the project from currently available engineers given as follows: {engineer_info}. Requirements: {requirements}"
             }
         ],
         model="gpt-3.5-turbo",
