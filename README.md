@@ -41,8 +41,5 @@ weighted avg       0.88      0.88      0.88      1759
 2. Install the required Node.js dependencies using `npm install`.
 3. Start the Vue.js development server using `npm run serve`.
 
-## License
-[Insert License Here]
-
 ## Acknowledgements
 We would like to express our gratitude to L&T Createch for organizing the competition and providing us with the opportunity to work on this project. Additionally, we would like to thank the Kaggle community for providing access to the Jira dataset, which was instrumental in fine-tuning our predictive model.
