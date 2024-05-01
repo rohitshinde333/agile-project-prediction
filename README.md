@@ -1,4 +1,3 @@
-Of course! Here's the updated README file:
 
 # L&T Createch Competition - Predictive Modeling for Agile Project Management
 
