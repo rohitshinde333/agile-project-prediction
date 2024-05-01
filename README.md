@@ -26,8 +26,8 @@ weighted avg       0.88      0.88      0.88      1759
 ```
 
 ## Contributors
-- Rohit Shinde
-- Harishri Vaidya
+- Rohit Shinde (github.com/rohitshinde333)
+- Harishri Vaidya (github.com/Harishrirajendra)
 - Nutan Chapade
 
 ## Setup Instructions
